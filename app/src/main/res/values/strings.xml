@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Capstone</string>
+    <string name="bali">Bali</string>
+    <string name="date">24</string>
+    <string name="day">Wed</string>
+    <string name="month">Jan</string>
+    <string name="year">2020</string>
+    <string name="temp">21℃</string>
+    <string name="temperature">Temperature</string>
+    <string name="pilih_tanggal">Pilih Tanggal:</string>
+    <string name="pilih_kategori">Pilih Kategori:</string>
+    <string name="search">Search</string>
+    <string name="destination">Pantai Kuta</string>
+    <string name="nature">Nature</string>
+    <string name="nature_checked">nature checked</string>
+    <string name="culture_checked">culture checked</string>
+    <string name="culture">culture</string>
+    <string name="date_format">DD-MM-YYYY</string>
+    <string name="man_made_checked">man-made checked</string>
+    <string name="man_made">man-made</string>
+    <string name="wind">Wind</string>
+    <string name="tci">tci</string>
+</resources>
